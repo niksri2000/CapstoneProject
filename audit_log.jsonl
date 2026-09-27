@@ -1,0 +1,3 @@
+{"timestamp": "2026-09-25 20:28:45", "run_id": "3fb21d3e-39f9-4707-a91a-a8614e7340a0", "region": "Guntur", "decision": "approve", "reviewer_note": "Guntur metrics are verified against SQL output; release approved."}
+{"timestamp": "2026-09-25 20:28:45", "run_id": "dc79ed82-9ad8-4145-a617-c3cc1dae7834", "region": "Guntur", "decision": "edit", "reviewer_note": "Needs additional proofreading on formatting before final release."}
+{"timestamp": "2026-09-25 20:28:45", "run_id": "896699bb-9557-4762-9577-a666f1072005", "region": "Guntur", "decision": "reject", "reviewer_note": "Major factual inconsistency with region name; rejection enforced."}
